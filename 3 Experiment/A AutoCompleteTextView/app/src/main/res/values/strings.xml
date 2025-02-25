@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ACTCApp</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Ireland</item>
+        <item>Srilanka</item>
+        <item>South Africa</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+    </string-array>
+</resources>
